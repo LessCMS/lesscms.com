@@ -62,6 +62,26 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
+            .footer {
+                position: fixed;
+                bottom: 0px;
+                width: 100%;
+                height: 60px;
+                background-color: #fff;
+                font-size: 11px;
+                text-align: center;
+                font-weight: 400;
+
+            }
+
+            .footer > a {
+                color: #000;
+                text-decoration: none;
+            }
+
+            .footer > a:hover {
+                color: #636b6f;
+            }
         </style>
     </head>
     <body>
@@ -92,6 +112,24 @@
 -->
             </div>
         </div>
+        <div class="footer">
+            Made with <span style="color: red;">♥</span> in the U.S.A, a product of <a href="https://redsevensquared.com">Red Seven Squared LLC</a>
+        </div>
+<!-- Drip -->
+<form action="https://www.getdrip.com/forms/67605182/submissions" data-drip-embedded-form="67605182">
+<script type="text/javascript">
+  var _dcq = _dcq || [];
+  var _dcs = _dcs || {};
+  _dcs.account = '5532473';
+
+  (function() {
+    var dc = document.createElement('script');
+    dc.type = 'text/javascript'; dc.async = true;
+    dc.src = '//tag.getdrip.com/5532473.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(dc, s);
+  })();
+</script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
