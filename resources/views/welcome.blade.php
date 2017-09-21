@@ -4,6 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="msvalidate.01" content="47F82BCE3975A4C75D7D4B0D8267D603" />
 
         <title>LessCMS</title>
 
